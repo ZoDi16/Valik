@@ -1,0 +1,175 @@
+body {
+  background-color: white;
+  font-size: 24px;
+}
+
+header {
+  display: flex;
+  width: 100%;
+  height: 100px;
+  background: #000000;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo {
+  width: 240px;
+  height: 89;
+}
+
+nav  {
+display: flex;
+justify-content: center;
+align-items: center;
+width: 100%;
+height: 50px;
+background-color: #1F1D1D;
+}
+
+nav ul {
+display: flex;
+justify-content: center;
+list-style: none;
+color: white;
+margin-left: -30px;
+}
+
+nav a {
+  margin:60px;
+  list-style: none;
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+  font-family: Inter;
+}
+
+main h2 {
+  text-align: justify;
+}
+
+main p {
+width: 510px;
+height: 603px;
+left: 75px;
+top: 298px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+text-align: justify;
+}
+
+.img, .img1{
+  width: 270px;
+  height: 180px;
+}
+
+aside {
+  background-color: #D9D9D9;
+}
+
+
+aside .img{
+position: absolute;
+float: right;
+left: 874px;
+top: 200px;
+font-weight: 400;
+background-color: #D9D9D9;
+}
+
+aside .img1{
+position: absolute;
+float: right;
+left: 1374px;
+top: 200px;
+font-weight: 400;
+}
+
+aside .text{
+  position: absolute;
+  width: 270px;
+  height: 603px;
+  left: 874px;
+  top: 370px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+  text-align: justify;
+}
+
+aside .text1{
+  position: absolute;
+  width: 270px;
+  height: 103px;
+  left: 1374px;
+  top: 370px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+  text-align: justify;
+}
+
+main .text4 {
+  text-align: center;
+}
+
+main .img3 {
+width: 522px;
+height: 331px;
+margin-left: 219px;
+top: 1142px;
+}
+
+main .img4 {
+width: 522px;
+height: 331px;
+margin-left: 419px;
+top: 1142px;
+}
+
+main .img5 {
+  width: 529px;
+  height: 330px;
+  margin-left: 221px;
+  top: 1526px
+}
+
+main .img6 {
+  width: 522px;
+  height: 331px;
+  margin-left: 410px;
+  top: 1526px
+}
+
+section {
+  box-sizing: border-box;
+  width: 100%;
+  height: 223px;
+  left: 0px;
+  top: 2051px;
+  background: #1F1D1D;
+  border: 1px solid #000000;
+  margin-top: 200px;
+}
+
+section p {
+  text-align: center;
+  font-family: 'Inter';
+  color: white;
+  justify-content: center;
+  text-decoration: none;
+}
+
+
+footer {
+  width: 100%;;
+  height: 150px;
+  top: 2051px;
+  background-color: #000000;
+}

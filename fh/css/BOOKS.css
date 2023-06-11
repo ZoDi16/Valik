@@ -1,0 +1,157 @@
+body {
+  background-color: white;
+  font-size: 24px;
+}
+
+header {
+  display: flex;
+  width: 100%;
+  height: 100px;
+  background: #000000;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo {
+  width: 240px;
+  height: 89;
+}
+
+nav  {
+display: flex;
+justify-content: center;
+align-items: center;
+width: 100%;
+height: 50px;
+background-color: #1F1D1D;
+}
+
+nav ul {
+display: flex;
+justify-content: center;
+list-style: none;
+color: white;
+margin-left: -30px;
+}
+
+nav a {
+  margin:60px;
+  list-style: none;
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+  font-family: Inter;
+}
+
+
+main .name {
+  font-size: 48px;
+}
+
+main hr{
+    margin-top: -40px;
+    width: 600px;
+    height: 2px;
+    background-color: black;
+    margin-right: 1300px;
+}
+
+main .text {
+  width: 30%;
+}
+
+main img {
+  margin-left: 1290px;
+  margin-top: -400px;
+  width: 30%;
+}
+
+
+.info1 div {
+  background-color: #ADADAD;
+  width: 67%;
+  height: 274px;
+  margin-top: 150px;
+}
+
+.info1 img {
+  width: 200px;
+}
+
+.info1 .data1 {
+  margin-left: 240px;
+  margin-top: -280px;
+}
+
+.info1 .text1 {
+  margin-left: 240px;
+}
+
+
+.info2 div {
+  background-color: #ADADAD;
+  width: 67%;
+  height: 274px;
+  margin-top: 150px;
+}
+
+.info2 img {
+  width: 200px;
+}
+
+.info2 .data2 {
+  margin-left: 240px;
+  margin-top: -280px;
+}
+
+.info2 .text2 {
+  margin-left: 240px;
+}
+
+.info3 div {
+  background-color: #ADADAD;
+  width: 67%;
+  height: 274px;
+  margin-top: 150px;
+}
+
+.info3 img {
+  width: 200px;
+}
+
+.info3 .data3 {
+  margin-left: 240px;
+  margin-top: -280px;
+}
+
+.info3 .text3 {
+  margin-left: 240px;
+}
+
+
+section {
+  box-sizing: border-box;
+  width: 100%;
+  height: 223px;
+  left: 0px;
+  top: 2051px;
+  background: #1F1D1D;
+  border: 1px solid #000000;
+  margin-top: 300px;
+}
+
+section p {
+  text-align: center;
+  font-family: 'Inter';
+  color: white;
+  justify-content: center;
+  text-decoration: none;
+}
+
+
+footer {
+  width: 100%;;
+  height: 150px;
+  top: 2051px;
+  background-color: #000000;
+}
